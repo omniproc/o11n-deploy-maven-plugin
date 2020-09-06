@@ -1,0 +1,14 @@
+/target
+/.settings
+/.idea
+.project
+.classpath
+*.class
+*.jar
+*.war
+*.ear
+*.dar
+*.vmoapp
+*.iml
+workspace.xml
+Thumbs.db
