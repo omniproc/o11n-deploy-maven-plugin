@@ -11,4 +11,4 @@
 *.vmoapp
 *.iml
 workspace.xml
-Thumbs.db
+.settings.xml

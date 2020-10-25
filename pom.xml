@@ -153,7 +153,7 @@
                         <configuration>
                             <!-- Use fingerprint instead of short / long key id due to possible
                                  collision attacks -->
-                            <keyname>8C1076FE7622DB407B65C3C58E5956631272A74A</keyname>
+                            <keyname>41D85EC2259A243A41A3E98CC17252A7608401A4</keyname>
                         </configuration>
                     </plugin>
                 </plugins>
